@@ -128,7 +128,7 @@ cat /etc/passwd | grep Shefa_cloud
 ```
 Result:![alt text](11.png)  welcome.txt
 ```
-sudo cat /home/rafsan_cloud/welcome.txt
+sudo cat /home/Shefa_cloud/welcome.txt
 ```
 Result: 
 
