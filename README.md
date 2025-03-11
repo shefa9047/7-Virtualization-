@@ -32,12 +32,7 @@ To install multipass:
 snap install multipass
 ```
 Launching the default Mulitpass ubuntu instance:
-```
-multipass launch
-```
-I get a `launch failed` error and telling me to run `multipass authenticate` command first.
 
-__But I used:__
 ```
 sudo multipass launch
 ```
